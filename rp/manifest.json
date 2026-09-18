@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§8TRealm Textures for §6TRealm §9(1.5.6.3)\nChanglogs:\n+Nar Nar Berry\n+Burga\n+Modelo Negra\n+TRealm XP Bar\n+Totem of Resuscitaion\n+Cool Painting\n+Translucent Tool Tips\n+Advanced Cross Hair\ndot cuM",
+        "name": "§6TRealm Pack §8[§91.5.6.3§8]", 
+        "uuid": "bcef9de3-0a5d-4514-b486-6087bf9cb067",
+        "version": [1, 5, 6],
+        "min_engine_version": [ 1, 16, 40 ]
+    },
+    "modules": [
+        {
+            "description": "§6TRealm Textures for §7TRealm (1.5.6.3)",
+            "type": "resources",
+            "uuid": "2c8c1e52-8cb1-4738-b3e5-fc3676c85208",
+            "version": [1, 5, 6]
+        }
+    ],
+    "metadata": {
+        "author": ["Kalliroe, of TREALM"]
+    }
+}

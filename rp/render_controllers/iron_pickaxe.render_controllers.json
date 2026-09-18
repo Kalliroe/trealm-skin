@@ -1,0 +1,16 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.iron_pickaxe": {
+            "textures": [
+                "Texture.iron_pickaxe"
+            ],
+            "geometry": "Geometry.iron_pickaxe",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ]
+        }
+    }
+}

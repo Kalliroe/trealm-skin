@@ -1,0 +1,152 @@
+﻿diamond=Tonyite
+save & quit=Rage Quit
+diperty=Diperty
+titanicgamer3=Chickn
+
+achievement.diamonds=TONYITE!
+achievement.diamonds.desc=Acquire tonyite with your iron tools
+achievement.diamondsToYou=Tonyite to you!
+achievement.diamondsToYou.desc=Throw tonyite at another player.
+achievement.enchantments.desc=Use a book, obsidian and tonyite to construct an enchantment table
+
+build.tooHigh=broh, you know it's %s blocks
+
+death.attack.anvil=%1$s was caught lacking
+death.attack.arrow=%1$s was capped by %2$s
+death.attack.arrow.item=%1$s was capped by %2$s using %3$s
+death.attack.cactus=%1$s was tickled to death
+death.attack.cactus.player=%1$s got gang banged by a cactus and %2$s
+death.attack.explosion=%1$s got rekt broh
+death.attack.explosion.player=%1$s was totaly rekt up by %2$s
+death.attack.fall=%1$s hit the ground too hard
+death.attack.fallingBlock=%1$s was squashed by a falling toe block
+death.attack.fireworks=%1$s went off with a bang
+death.attack.flyIntoWall=%1$s experienced §4§lENERGY
+death.attack.generic=%1$s had a skill issue
+death.attack.indirectMagic=%1$s was killed by %2$s using fricken toe magic 
+death.attack.inWall=%1$s was really brain
+death.attack.lightningBolt=%1$s was struck by toes from the toe god himself
+death.attack.magic=%1$s was killed by dark toe magic
+death.attack.mob=%1$s was raped by %2$s
+death.attack.onFire=%1$s burned to death because they don't know what a toe is
+death.attack.outOfWorld=%1$s fell out of the world, HA HA WHAT A TOE MAN
+death.attack.player=%1$s was brudally murder by %2$s because they are insane
+death.attack.player.item=%1$s was toed to death by %2$s using %3$s
+death.attack.starve=%1$s starved to death because they poor
+death.attack.wither=%1$s got Thanos snapped
+death.fell.accident.generic=%1$s broke his toes
+death.fell.accident.ladder=%1$s broke his toes off of a ladder
+death.fell.accident.vines=%1$s fell off some vines and broke his toes
+death.fell.accident.water=%1$s fell out of the water and broke his toes
+death.fell.killer=%1$s was doomed to break his toes
+
+deathScreen.message=YOU SUCK!!
+deathScreen.quit=Give up
+deathScreen.quit.confirm=Rage quiting?
+deathScreen.quit.confirmToMainMenuWarning=Rage quiting?
+deathScreen.quit.confirmToMainMenuTitleWarning=Rage quit?
+deathScreen.quit.secondaryClient=Save and Leave
+deathScreen.quit.secondaryClient.confirmLeaveWarning=Are you sure you want to save and leave the game?
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=Save and Leave
+deathScreen.respawn=Reanimate
+deathScreen.score=Score
+deathScreen.title=Skill Issue!
+deathScreen.title.hardcore=Game over!
+deathScreen.titleScreen=Title screen
+
+enchantment.level.1=I
+enchantment.level.2=II
+enchantment.level.3=III
+enchantment.level.4=IV
+enchantment.level.5=V
+enchantment.level.6=V+
+enchantment.level.7=V Pro
+enchantment.level.8=V Max
+enchantment.level.9=Ultra
+encahntment.level.10=Ultra Max
+enchantment.lootBonus=LTNG
+enchantment.lootBonusDigger=FRTN
+enchantment.mending=Mending, Smart
+enchantment.protect.explosion=BOOM Protection
+enchantment.protect.fall=Toe Protction
+enchantment.thorns=Thorns
+enchantment.untouching=SoftTouch
+
+entity.creeper.name=Muslim
+
+menu.copyright=©TREALM 
+menu.quit=Rage Quit
+
+playscreen.fileSize.MB=MegaFart
+playscreen.fileSize.GB=GigaFart
+
+potion.potency.0=I
+potion.potency.5=V+
+
+raid.name=Raid! ##c
+raid.progress=Fools remaining: ##c
+
+selectWorld.select=Play Selected World
+selectWorld.tab.worlds=Worlds
+selectWorld.tab.realms=Realms
+selectWorld.tab.friends=Buddy Pals ##c
+selectWorld.title=Select World
+selectWorld.world=World
+
+tile.bed.noSleep=No rest, get to work ##c
+tile.bed.notSafe=You feel the erge to murder all who disturb your sleep...
+tile.bed.notValid=You homeless dawg!
+tile.bed.occupied=Sleeping with others is a sin...
+tile.bed.respawnSet=Ressurection point set
+tile.bed.tooFar=Come a little closer...
+tile.diamond_block.name=Block of Tonyite
+tile.cactus.name=Pillow 
+tile.chest.name=Box 1.0
+tile.ender_chest.name=Box 4.0
+
+tile.shulkerBoxWhite.name=White Box 3.0
+tile.shulkerBoxOrange.name=Orange Box 3.0
+tile.shulkerBoxMagenta.name=Magenta Box 3.0
+tile.shulkerBoxLightBlue.name=Light Box 3.0
+tile.shulkerBoxYellow.name=Yellow Box 3.0
+tile.shulkerBoxLime.name=Lime Box 3.0
+tile.shulkerBoxPink.name=Pink Box 3.0
+tile.shulkerBoxGray.name=Gray Box 3.0
+tile.shulkerBoxSilver.name=Light Gray Box 3.0
+tile.shulkerBoxCyan.name=Cyan Box 3.0
+tile.shulkerBoxPurple.name=Purple Box 3.0
+tile.shulkerBoxBlue.name=Blue Box 3.0
+tile.shulkerBoxBrown.name=Brown Box 3.0
+tile.shulkerBoxGreen.name=Green Box 3.0
+tile.shulkerBoxRed.name=Red Box 3.0
+tile.shulkerBoxBlack.name=Black Box 3.0
+tile.shulkerBox.name=Box 3.0
+tile.enderChest.name=Box 4.0
+tile.diamond_ore.name=Tonyite Ore
+tile.deepslate_diamond_ore.name=Deepslate Tonyite Ore
+tile.dragon_egg.name=The Egg
+
+trim_material.diamond.name=Tonyite Material
+
+item.diamond_boots.name=Tonyite Boots
+item.diamond_chestplate.name=Tonyite Chestplate
+item.diamond.name=Tonyite
+item.diamond_axe.name=Tonyite Axe
+item.diamond_helmet.name=Tonyite Helmet
+item.diamond_hoe.name=Tonyite Hoe
+item.diamond_hoe.name=Tonyite Hoe
+item.horsearmordiamond.name=Tonyite Horse Armor
+item.diamond_leggings.name=Tonyite Leggings
+item.diamond_pickaxe.name=Tonyite Pickaxe
+item.diamond_shovel.name=Tonyite Shovel
+item.diamond_sword.name=Tonyite Sword
+item.golden_carrot.name=Nar Nar Berry
+item.steak.name=Burga
+item.chorus_fruit.name=Modelo Negra
+item.totem.name=Totem of Resuscitation
+item.cooked_beef.name=Burga
+
+
+trade.level.6=Tony Lord
+
+key.emote=Fortnite Emote
